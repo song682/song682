@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @song682
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Minecraft mods.
+- 💞️ I’m looking to collaborate on who can help me to do the Minecraft mods
 - 📫 How to reach me ...
 
 <!---
