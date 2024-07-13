@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @song682
-- 👀 I’m interested in painting, transltion, etc.
+- 👀 I’m interested in painting, transltion, etc.  
  If I sometimes don't reply you, that is because I'm studying at school. If that makes some trouble, I'm sorry.
 
 <!---
